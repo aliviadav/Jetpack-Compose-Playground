@@ -132,6 +132,7 @@ You need at least [version >= Android Studio Arctic Fox](https://developer.andro
 | [Compse UI Docu](https://developer.android.com/reference/kotlin/androidx/ui/packages)  		    | |
 | [Video - Jetpack compose - MVVM State management in a simple way](https://youtu.be/KTvP27FpXd0)  		    | |
 | [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot)  		    | |
+| [Video - How to integrate Gin middleware in Golang](https://youtu.be/KKC_OpFk9WY)     ||
 
 Feel free to contribute!
 
